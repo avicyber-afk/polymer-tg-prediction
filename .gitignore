@@ -1,0 +1,14 @@
+# Regenerable feature caches (rebuilt by the scripts from the source CSV)
+Tg_rdkit_descriptors.csv
+Tg_magpie_features.csv
+Tg_ring_features.csv
+Tg_morgan_fp.npz
+
+# Build / training artifacts
+__pycache__/
+*.pyc
+catboost_info/
+
+# Logs
+*.log
+*_log.txt

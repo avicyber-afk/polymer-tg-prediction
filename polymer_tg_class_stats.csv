@@ -1,0 +1,45 @@
+Polymer Class,count,mean,std,min,max
+"Polyoxides/ethers/acetals, Polysiloxanes/silanes",33,-16.62878787878788,83.07113201037318,-106.0,171.0
+"Polyphosphazenes, Polyimines",99,-14.11969696969697,54.6740409703699,-105.0,111.4
+Polysiloxanes/silanes,247,-0.5165789473684209,64.71625705942319,-139.0,177.5
+Polydienes,50,31.89,102.19394975900939,-105.0,250.0
+Polyolefins,55,33.33272727272727,101.41784862735958,-88.0,350.0
+Polysulfides,86,35.068023255813955,78.03815805435889,-118.0,298.0
+Polyurethanes/thiourethanes,77,48.44155844155844,42.191260477700794,-60.0,168.0
+"Polyoxides/ethers/acetals, Polycarbonates/thiocarbonates",34,54.358823529411765,76.50909281531483,-27.0,295.0
+"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes",34,66.78823529411765,59.67960295538717,-31.0,225.0
+"Polyoxides/ethers/acetals, Polyesters/thioesters",153,67.5483660130719,85.14885368281084,-74.5,312.0
+"Polyacrylics, Polyvinyls",600,68.31906666666667,68.54370328407549,-100.0,333.0
+"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",39,70.26923076923077,82.38628256363961,-13.2,380.0
+Other polymers,33,71.33181818181818,63.86784918165719,-60.0,206.0
+"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides",53,74.19811320754717,62.99895753278546,16.0,312.0
+Polyvinyls,241,76.9,76.49631608776987,-80.0,420.0
+Polyoxides/ethers/acetals,301,81.89607973421927,91.70075193755835,-116.0,332.0
+"Polyesters/thioesters, Polyamides/thioamides",120,83.93645833333333,85.32663063759541,-18.0,329.0
+Polyesters/thioesters,426,86.9287558685446,93.02055996948594,-78.6,352.5
+"Polystyrenes, Polyvinyls",238,96.1983193277311,65.19236916360245,-75.0,330.0
+Polyureas/thioureas,34,114.3529411764706,76.69099048382655,-50.0,250.0
+"Polyurethanes/thiourethanes, Polyimines",44,117.28863636363636,46.82425934506099,31.9,223.0
+"Polyesters/thioesters, Polyimines",54,127.22407407407408,55.349851068249755,30.0,322.0
+"Polyimides/thioimides, Polyesters/thioesters",67,128.38208955223882,75.15091570415944,41.0,360.0
+Polycarbonates/thiocarbonates,148,131.8293918918919,83.12914158861705,-50.0,355.0
+Polyphenylenes,101,143.81118811881188,78.47080630765977,9.0,327.0
+"Polysulfides, Polyimines",32,145.2875,87.99363888299523,16.2,495.0
+Polyamides/thioamides,401,148.72947630922692,93.34992944547447,-62.0,395.0
+Polyimines,216,163.5225,126.69047074625223,-71.4,420.0
+"Polyoxides/ethers/acetals, Polyketones/thioketones",155,174.5474193548387,56.26953430609055,47.0,310.0
+"Polyoxides/ethers/acetals, Polyamides/thioamides",219,183.08949771689498,67.72871177255925,10.0,345.0
+"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",128,186.535546875,67.51536254235869,46.0,360.0
+"Polyoxides/ethers/acetals, Polyimines",252,203.9834523809524,100.77618258141648,-50.0,437.0
+"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfides",31,210.39193548387095,51.23052816562632,78.0,322.0
+"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyimines",33,215.86060606060605,67.4452413971602,52.0,329.0
+"Polyoxides/ethers/acetals, Polyimines, Polyketones/thioketones",52,222.47115384615384,72.23582115173929,31.0,340.0
+"Polyamides/thioamides, Polyimines",31,237.1451612903226,84.48423852494491,5.0,334.0
+"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyketones/thioketones",84,241.10714285714286,43.295893641270574,103.5,362.0
+"Polyimides/thioimides, Polyoxides/ethers/acetals",454,243.46878854625552,62.416889221736646,56.0,456.0
+Polyimides/thioimides,324,244.71913580246914,98.00557648817876,30.0,466.0
+"Polyoxides/ethers/acetals, Polyamides/thioamides, Polyimines",51,261.47058823529414,87.74077796353907,77.0,421.0
+"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",37,262.90945945945947,43.829996447508286,167.0,365.5
+"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides",132,266.719696969697,36.77854385993402,177.0,376.0
+"Polyimides/thioimides, Polyamides/thioamides",80,274.94375,58.30604511671066,120.0,390.0
+"Polyimides/thioimides, Polyketones/thioketones",114,279.4616666666667,58.02982932844028,87.5,424.0
